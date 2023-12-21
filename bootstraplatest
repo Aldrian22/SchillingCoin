@@ -1,0 +1,4 @@
+First stop wallet.
+Delete existing database folder (blocks,chainstate,sporks,zerocoin,peers.dat)
+Download latest database from http://104.238.129.76/bootstrap.tar.gz and extract it into Database folder.
+Start wallet now.
